@@ -9,3 +9,4 @@
 | [11. Построение модели определения стоимости автомобиля](11_boosting)	| Обучили модель машинного обучения определять рыночную стоимость автомобиля.	| *Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost* |
 | [12. Прогнозирование количества заказов такси на следующий час](12_timeseries)	| Обучил модель машинного обучения предсказывать количество поездок на такси в течение следующего часа.	| *Pandas, Sklearn, Numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning* |
 | [13. Обучение модели классификации комментариев](13_nlp)	| Обучил модель классифицировать комментарии как токсичные и нетоксичные.	| *Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn* |
+| [14. Распознавание возраста по фотографии](14_tensorflow)	| Создал модель машинного обучения, которая определяет приблизительный возраст человека по фотографии.	| *Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning* |
